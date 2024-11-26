@@ -16,9 +16,7 @@
     "dotenv": "^16.4.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-modal": "^3.16.1",
-    "soroban-client": "^1.0.1",
-    "stellar-sdk": "^12.3.0"
+    "react-modal": "^3.16.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
